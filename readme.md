@@ -8,12 +8,14 @@ https://github.com/ECE444-2021Fall/project1-education-pathways-group-5-sojourner
 as stated on the github comment.
 
 The above is the only meaningful addition that I have contributed thus far.
-The decision to implement a tutorual guide was undertaken due to the fact authenticaion
+The decision to implement a tutorial guide was undertaken due to the fact authentication
 is an external module and relies on Google services and a multitude of additional services, packages, and components.
 
-No other native self developed methods was added to the functioanlity as of yet, due to the fact
+No other native self developed methods was added to the functionality as of yet, due to the fact
 that the React frontend has only been very recently completed, and I am still learning how
 to do anything meaningful with flask and back end.
+
+I will most definitely add more self-reliant functionality in the upcoming weeks.
 
 # What are the pros and cons of TDD?
 Pros:
@@ -33,8 +35,8 @@ Cons:
 Speed and ease of development. TDD slows down development and adds an entirely new 
 difficulty curve for the less experienced developers. Time-consuming and painstaking nature
 of the development can potentially hard morale at certain steps of the development.
-It can be theorized that applying this concept to an exisitng codebase in the goal of 
+It can be theorized that applying this concept to an existing codebase in the goal of 
 refactoring it would be daunting.
 The entirety of the development team has to adapt and be familiar with the TDD approach.
-Upon change of functioanlity and/or objectives of the application the test suite will
+Upon change of functionality and/or objectives of the application the test suite will
 likely require a rewrite.
