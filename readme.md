@@ -40,8 +40,3 @@ refactoring it would be daunting.
 The entirety of the development team has to adapt and be familiar with the TDD approach.
 Upon change of functionality and/or objectives of the application the test suite will
 likely require a rewrite.
-
-# flake on windows
-Executing python -m flake8 --exclude env --ignore E402,E501 . yields a literal million lines of issues
-under the windows platform, I tried searching online and reading documentation but
-unfortunately I don't understand why its 
