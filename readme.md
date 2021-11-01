@@ -4,16 +4,16 @@
 # Test cases
 Academic attestation:
 Please note that the flask-oauth implementation was made by closely following a tutorial found online.
-https://github.com/ECE444-2021Fall/project1-education-pathways-group-5-sojourner/commit/f8495e75fa82c27799b44c32b925f7ad0032aa96
-As stated on the github comment.
+https://github.com/ECE444-2021Fall/project1-education-pathways-group-5-sojourner/commit/f8495e75fa82c27799b44c32b925f7ad0032aa96,
+as stated on the github comment.
 
 The above is the only meaningful addition that I have contributed thus far.
 The decision to implement a tutorual guide was undertaken due to the fact authenticaion
 is an external module and relies on Google services and a multitude of additional services, packages, and components.
 
-No other native self developed was added to the functioanlity as of yet due to the fact
-that the React frontend has only been very recently completed and I am still learning how
-to do anything meaningful with flask and BE, I am a brand new learner with 0 background.
+No other native self developed methods was added to the functioanlity as of yet, due to the fact
+that the React frontend has only been very recently completed, and I am still learning how
+to do anything meaningful with flask and back end.
 
 # What are the pros and cons of TDD?
 Pros:
