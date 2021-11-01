@@ -17,6 +17,9 @@ to do anything meaningful with flask and back end.
 
 I will most definitely add more self-reliant functionality in the upcoming weeks.
 
+I have added the basic fixtures and ran and succedeed in passing a simple test, with more developmenmt to follow shortly.
+https://github.com/ECE444-2021Fall/project1-education-pathways-group-5-sojourner/commit/b8a1cc25b3cd647e9036c8c161421b0ee9b608c8
+
 # What are the pros and cons of TDD?
 Pros:
 Test driven development (TDD) approach forces the developer to think functionality through first,
